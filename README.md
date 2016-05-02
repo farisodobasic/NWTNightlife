@@ -1,2 +1,0 @@
-# NWTNightlife
-NWT Nightlife portal
